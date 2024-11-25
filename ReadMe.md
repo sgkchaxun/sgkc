@@ -93,7 +93,7 @@
 
 ## Hello World社工库⭐⭐⭐
 
-此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。此社工库详情：<a href="https://t.me/de77777?start=qstxIqcQ3R" target="_blank">ello World社工库</a>。
+此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。此社工库详情：<a href="https://t.me/de77777?start=qstxIqcQ3R" <img src="pic/aaaa.png" alt="免费社工库" border="0"> 
 
 
 <a href="https://t.me/de77777?start=qstxIqcQ3R" target="_blank"><img src="pic/hello.png" alt="Hello World社工库" border="0" style="width:380px;"></a>
