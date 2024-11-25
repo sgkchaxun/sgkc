@@ -248,8 +248,9 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 此社工库号称可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主……
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@ku77777</a>。 试了下，已经没法用了，没反应。想要测试的可以找其他社工库试试：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@ku77777</a>。 
 
+<img src="pic/aaaa.png" alt="免费社工库" border="0"> 
 
 ## MI6社工机器人⭐
 
