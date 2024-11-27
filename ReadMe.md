@@ -20,6 +20,8 @@
 
 * 天眼查工库账号: <a href="https://MoLeLe_SGKbot?start=qstxIqcQ3R" target="_blank">@MoLeLe_SGKbot</a>
 
+情报局社工库 @MoLeLe_SGKbot
+
 ## 暗精灵社工库⭐⭐⭐⭐⭐⭐
 
 暗精灵社工库可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。
