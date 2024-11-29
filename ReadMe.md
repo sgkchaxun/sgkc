@@ -16,6 +16,8 @@
 
 ⚠免责声明：整理来自网络的可用社工库工具，勿用于非法用途，仅供了解、娱乐、个人信息泄露验证使用，没有对社工库有进一步的了解，对付费的社工库也没有尝试过，不做评价，但我相信，充值了也不一定能查出来东西，自己有个心里准备。
 
+### 007社工库机器人[@baidusell_bot_bot](https://t.me/MoLeLe_SGKbot?start=NTgzNzg1NTEy)
+
 ### 小火箭 [@MoLeLe_SGKbot](https://t.me/MoLeLe_SGKbot?start=NTgzNzg1NTEy)
 
 ##天眼查社工库⭐⭐⭐⭐⭐⭐开房记录 微信记录 聊天记录 个人信息可以查询平台帐号、密码、查qq绑定、查邮箱、查手机号、查身份证
