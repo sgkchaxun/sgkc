@@ -16,6 +16,8 @@
 
 ⚠免责声明：整理来自网络的可用社工库工具，勿用于非法用途，仅供了解、娱乐、个人信息泄露验证使用，没有对社工库有进一步的了解，对付费的社工库也没有尝试过，不做评价，但我相信，充值了也不一定能查出来东西，自己有个心里准备。
 
+### 暗精灵社工库档社工库[@@AJL02_botbot](https://t.me/AJL02_botbot?start=NTgzNzg1NTEy)
+
 ###海豚查档TG电报社工库机器人@hdcqbot
 
 ### 007社工库机器人[@baidusell_bot_bot](https://t.me/MoLeLe_SGKbot?start=NTgzNzg1NTEy)
